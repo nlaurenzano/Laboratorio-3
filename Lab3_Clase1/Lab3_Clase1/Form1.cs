@@ -16,5 +16,16 @@ namespace Lab3_Clase1
         {
             InitializeComponent();
         }
+
+        private void btnSaludar_Click(object sender, EventArgs e)
+        {
+            //MessageBox.Show("Hallo " + txtNombre.Text + "!");
+            MessageBox.Show("Hallo " + txtNombre.Lines[0] + "!");
+
+            
+        }
+
+       
+
     }
 }

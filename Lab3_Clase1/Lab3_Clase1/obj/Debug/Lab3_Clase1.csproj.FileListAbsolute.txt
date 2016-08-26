@@ -10,3 +10,9 @@ D:\Laurenzano\Lab3_Clase1\Lab3_Clase1\obj\Debug\Lab3_Clase1.Form1.resources
 D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\bin\Debug\Lab3_Clase1.exe.config
 D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\obj\Debug\Lab3_Clase1.exe
 D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\obj\Debug\Lab3_Clase1.pdb
+D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\bin\Debug\Lab3_Clase1.exe
+D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\bin\Debug\Lab3_Clase1.pdb
+D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\obj\Debug\Lab3_Clase1.csprojResolveAssemblyReference.cache
+D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\obj\Debug\Lab3_Clase1.Form1.resources
+D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\obj\Debug\Lab3_Clase1.Properties.Resources.resources
+D:\Laurenzano\Lab3\Lab3_Clase1\Lab3_Clase1\obj\Debug\Lab3_Clase1.csproj.GenerateResource.Cache
