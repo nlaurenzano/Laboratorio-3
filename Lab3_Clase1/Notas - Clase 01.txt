@@ -1,4 +1,9 @@
+Profesor:
+	Cristian Bauss
 
+
+Consultas:
+	egos27@yahoo.com.ar
 
 Clase 1
 -------
@@ -7,7 +12,9 @@ Clase parcial:
 	Palabra reservada "partial". Indica que la clase está separada en partes. Una parte de código nuestro limpio, mientras que la otra parte es generada por el diseñador (no la vamos a tocar). Al compilar se unen las dos partes de la clase.
 	Cuando agregamos elementos al formulario, el código que le corresponde se genera en la parte del diseñador de la clase.
 
-
+Ciclo de vida de un form:
+	Lo instancio (se carga en memoria).
+	Load: 
 
 
 
